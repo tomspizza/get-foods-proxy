@@ -1,4 +1,4 @@
-package org.vibee.integration.dto;
+package org.susi.integration.dto;
 
 public class FoodItem {
     private String foodItemId;

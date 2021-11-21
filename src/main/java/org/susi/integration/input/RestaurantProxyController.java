@@ -1,4 +1,4 @@
-package org.vibee.integration.input;
+package org.susi.integration.input;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JsonNode;
@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.susi.integration.CodeobeListener;
 import org.susi.integration.CodeobeLog;
-import org.vibee.integration.dto.FoodItem;
+import org.susi.integration.dto.FoodItem;
 
 import javax.jms.JMSException;
 import javax.jms.TextMessage;

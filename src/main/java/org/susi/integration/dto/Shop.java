@@ -1,4 +1,4 @@
-package org.vibee.integration.dto;
+package org.susi.integration.dto;
 
 import javax.xml.bind.annotation.XmlRootElement;
 

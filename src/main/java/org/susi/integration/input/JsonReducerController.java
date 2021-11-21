@@ -1,4 +1,4 @@
-package org.vibee.integration.input;
+package org.susi.integration.input;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
